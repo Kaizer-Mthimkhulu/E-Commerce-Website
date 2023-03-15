@@ -24,3 +24,5 @@ Product Reviews: Customers can leave reviews and ratings on products they have p
 Discounts and Offers: We regularly offer discounts and promotional offers to our customers, which they can avail of by using coupon codes during checkout.
 
 Overall, our e-commerce website is designed to provide a seamless and enjoyable online shopping experience to our customers. We are committed to ensuring the highest levels of security, privacy, and customer satisfaction. If you have any questions or feedback, please feel free to contact us at support@ourwebsite.com.
+
+Visit The project at https://kaizer-mthimkhulu.github.io/E-Commerce-Website/ username: fullstack@gmail.com password: 1234@8765
